@@ -17,7 +17,7 @@ fetch(url)
         //creamos un div de clase card
         let div1 = document.createElement('div');
         div1.classList.add("bg-success", "card", "m-2");
-        div1.style.width ="10rem";
+        div1.style.width ="9rem";
         //creamos otro div de clase card body
         let div = createNode('div');
         div.classList.add("card-body");
